@@ -8,7 +8,7 @@ This repository contains a comprehensive analysis of a traffic sign detection da
 - **Total Annotations:** 19,346 XML files + 19,048 YOLO format files
 - **Total Sign Instances:** 30,634 annotated traffic signs
 - **Classes:** 76 different traffic sign classes
-- **Estimated Size:** ~9.7 GB
+- **Estimated Size:** ~12GB
 
 ## Repository Structure
 ```
