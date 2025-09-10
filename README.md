@@ -40,11 +40,11 @@ The dataset includes 76 traffic sign classes organized into four categories:
 ## Key Findings
 
 ### 7 Vs of Big Data Analysis
-1. **Volume:** 9.7 GB dataset with 19,346 images and 30,634 sign instances
+1. **Volume:** 12 GB dataset with 19,346 images and 30,634 sign instances
 2. **Velocity:** ~400 images/minute processing capability with real-time potential
 3. **Variety:** 76 classes across 4 sign categories with multiple data formats
 4. **Value:** $2.3M+ estimated value with $50B+ autonomous vehicle market potential
-5. **Veracity:** 98.5% annotation coverage with professional quality standards
+5. **Veracity:** Annotation coverage with professional quality standards
 6. **Variability:** 1.12 coefficient of variation with significant class imbalance
 7. **Validity:** 94% overall validity score with high accuracy metrics
 
