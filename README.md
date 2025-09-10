@@ -30,12 +30,12 @@ MIT805/
 ## Class Categories
 The dataset includes 76 traffic sign classes organized into four categories:
 
-| Category | Count | Percentage | Examples |
-|----------|-------|------------|----------|
-| Regulatory | 33 | 43.4% | Speed limits, stop signs, yield signs |
-| Warning | 34 | 44.7% | Curve warnings, pedestrian crossings |
-| Information | 6 | 7.9% | Parking, hospital, motorway signs |
-| Complementary | 3 | 3.9% | Distance markers, chevron indicators |
+| Category |  Examples |
+|----------|-------|
+| Regulatory |  Speed limits, stop signs, yield signs |
+| Warning |   Curve warnings, pedestrian crossings |
+| Information |  Parking, hospital, motorway signs |
+| Complementary | 3  Distance markers, chevron indicators |
 
 ## Key Findings
 
