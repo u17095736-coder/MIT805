@@ -46,6 +46,7 @@ The dataset includes 76 traffic sign classes organized into four categories:
 5. **Veracity:** Annotation coverage with professional quality standards
 6. **Variability:** 1.12 coefficient of variation with significant class imbalance
 7. **Validity:** 94% overall validity score with high accuracy metrics
+8. **Visualisation:** Traffic Sign Dataset is highly visual by nature. It includes class distribution histograms to visualise balance across 76 classes
 
 ### Business Applications
 - **Autonomous Vehicles:** Real-time traffic sign recognition for safety-critical systems
@@ -61,8 +62,7 @@ The repository includes two main analysis scripts:
 1. **`simple_analysis.py`**: Quick analysis focusing on the 7 Vs framework
 2. **`data_analysis.py`**: Comprehensive analysis with visualizations
 
-## Analysis Results
-- Complete analysis report: `MIT805_Assignment1_Report.md`
+
 
 ## Dataset Statistics
 - **Most Common Class:** regulatory--maximum-speed-limit (3,720 instances)
@@ -88,7 +88,7 @@ The dataset demonstrates significant potential for:
 - `classes.json`: Complete class definitions with counts
 - `dataset.yaml`: YOLO dataset configuration
 - `analysis_summary.json`: Key statistics and metrics
-- `MIT805_Assignment1_Report.md`: Comprehensive analysis report
+  
 
 ## Contributing
 This is an academic project for MIT 805. For questions or suggestions, please contact the author.
