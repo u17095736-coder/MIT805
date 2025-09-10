@@ -35,7 +35,7 @@ The dataset includes 76 traffic sign classes organized into four categories:
 | Regulatory |  Speed limits, stop signs, yield signs |
 | Warning |   Curve warnings, pedestrian crossings |
 | Information |  Parking, hospital, motorway signs |
-| Complementary | 3  Distance markers, chevron indicators |
+| Complementary | Distance markers, chevron indicators |
 
 ## Key Findings
 
