@@ -18,7 +18,6 @@ MIT805/
 ├── txts (YOLO)/              # YOLO format annotations
 ├── crops/                    # Cropped sign images organized by class
 ├── classes.json              # Class definitions and counts
-├── dataset.yaml              # Dataset configuration file
 ├── data_analysis.py          # Comprehensive analysis script
 ├── simple_analysis.py        # Simplified analysis script
 ├── requirements.txt          # Python dependencies
@@ -54,28 +53,7 @@ The dataset includes 76 traffic sign classes organized into four categories:
 - **Driver Assistance:** Enhanced safety features and navigation systems
 - **Fleet Management:** Compliance monitoring and risk assessment
 
-## Getting Started
 
-### Prerequisites
-- Python 3.7+
-- Required packages listed in `requirements.txt`
-
-### Installation
-1. Clone the repository:
-```bash
-git clone [repository-url]
-cd MIT805
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the analysis:
-```bash
-python simple_analysis.py
-```
 
 ### Usage
 The repository includes two main analysis scripts:
@@ -85,8 +63,6 @@ The repository includes two main analysis scripts:
 
 ## Analysis Results
 - Complete analysis report: `MIT805_Assignment1_Report.md`
-- Summary statistics: `analysis_summary.json`
-- Visualizations: Generated PNG and HTML files
 
 ## Dataset Statistics
 - **Most Common Class:** regulatory--maximum-speed-limit (3,720 instances)
@@ -96,10 +72,10 @@ The repository includes two main analysis scripts:
 
 ## Business Insights
 The dataset demonstrates significant potential for:
-1. **Autonomous Vehicle Development** ($50B+ market)
-2. **Smart City Infrastructure** ($1.5T+ market)
-3. **Driver Assistance Systems** ($30B+ market)
-4. **Fleet Management** ($15B+ market)
+1. **Autonomous Vehicle Development** 
+2. **Smart City Infrastructure** 
+3. **Driver Assistance Systems** 
+4. **Fleet Management** 
 
 ## Technical Recommendations
 1. Address class imbalance through data augmentation
@@ -127,4 +103,4 @@ This project is for academic purposes only. Please respect the original dataset 
 
 ---
 
-**Note:** This repository contains analysis code and documentation. The original dataset files are not included due to size constraints.
+
